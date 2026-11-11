@@ -1,0 +1,9 @@
+{
+  "id": "okumayardimcisi",
+  "name": "Reading Helper",
+  "version": "1.2",
+  "author": "Eray",
+  "description": "Expands abbreviations while reading, keeps a notification history, recognizes text on the screen and asks the AI about the screen",
+  "language": "en",
+  "minVersion": 537
+}
